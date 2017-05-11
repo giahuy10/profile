@@ -1,0 +1,13 @@
+[11-Apr-2017 13:23:31 Asia/Bangkok] PHP Warning:  mail() has been disabled for security reasons in /home/mokaraco/giahuy10.com/contact.php on line 13
+[11-Apr-2017 16:22:31 Asia/Bangkok] PHP Warning:  fclose() expects parameter 1 to be resource, integer given in /home/mokaraco/giahuy10.com/contact.php on line 11
+[11-Apr-2017 16:25:27 Asia/Bangkok] PHP Warning:  fclose() expects parameter 1 to be resource, integer given in /home/mokaraco/giahuy10.com/contact.php on line 20
+[11-Apr-2017 16:28:59 Asia/Bangkok] PHP Warning:  fclose() expects parameter 1 to be resource, integer given in /home/mokaraco/giahuy10.com/contact.php on line 21
+[11-Apr-2017 16:30:31 Asia/Bangkok] PHP Warning:  fclose() expects parameter 1 to be resource, integer given in /home/mokaraco/giahuy10.com/contact.php on line 21
+[11-Apr-2017 16:48:35 Asia/Bangkok] PHP Warning:  mail() has been disabled for security reasons in /home/mokaraco/giahuy10.com/index.php on line 741
+[11-Apr-2017 16:56:30 Asia/Bangkok] PHP Deprecated:  Function eregi_replace() is deprecated in /home/mokaraco/giahuy10.com/index.php on line 758
+[11-Apr-2017 16:56:40 Asia/Bangkok] PHP Notice:  fputs() [<a href='function.fputs'>function.fputs</a>]: send of 19 bytes failed with errno=32 Broken pipe in /home/mokaraco/giahuy10.com/class.smtp.php on line 497
+[11-Apr-2017 16:56:40 Asia/Bangkok] PHP Notice:  fputs() [<a href='function.fputs'>function.fputs</a>]: send of 12 bytes failed with errno=32 Broken pipe in /home/mokaraco/giahuy10.com/class.smtp.php on line 215
+[11-Apr-2017 16:57:17 Asia/Bangkok] PHP Deprecated:  Function eregi_replace() is deprecated in /home/mokaraco/giahuy10.com/index.php on line 758
+[11-Apr-2017 16:57:28 Asia/Bangkok] PHP Notice:  fputs() [<a href='function.fputs'>function.fputs</a>]: send of 19 bytes failed with errno=32 Broken pipe in /home/mokaraco/giahuy10.com/class.smtp.php on line 497
+[11-Apr-2017 16:57:28 Asia/Bangkok] PHP Notice:  fputs() [<a href='function.fputs'>function.fputs</a>]: send of 12 bytes failed with errno=32 Broken pipe in /home/mokaraco/giahuy10.com/class.smtp.php on line 215
+[11-Apr-2017 16:58:29 Asia/Bangkok] PHP Warning:  fclose() expects parameter 1 to be resource, integer given in /home/mokaraco/giahuy10.com/contact.php on line 21

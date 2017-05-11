@@ -1,0 +1,959 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Eddy Nguyen's Profile</title>
+  
+  <meta charset="utf-8">
+  <meta name="description" content="You are viewing profile of one of the best freelancer in VietNam.">
+ 
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  <!-- BOOTSTRAP -->
+  <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+  <link href="preloader.css" rel="stylesheet">
+  <link href="animate.css" rel="stylesheet">
+  <link href="magnific-effect.css" rel="stylesheet">
+  <link href="uikit.css" rel="stylesheet">
+  <link href="owl.carousel.css" rel="stylesheet">
+  <link href="owl.theme.css" rel="stylesheet">
+  <link href="owl.transitions.css" rel="stylesheet">
+  <link href="magnific-popup.css" rel="stylesheet">
+  <link id="stylesheet" href="style-softgreen.css" rel="stylesheet">
+
+  <link href='https://fonts.googleapis.com/css?family=Raleway:900,700,400,300%7COpen+Sans:400,700,800%7CLato:400,700' rel='stylesheet' type='text/css'>
+
+
+    
+   
+
+    <!--[if lt IE 9]>
+      <script src="assets/js/html5shiv.js"></script>
+      <script src="assets/js/respond.min.js"></script>
+      <![endif]-->
+
+    <!--[if lte IE 8]>
+      <script type="text/javascript" src="assets/js/excanvas.js"></script>
+      <![endif]-->
+
+    </head>
+
+    <body data-spy="scroll" data-offset="70" data-target=".fixed-nav">
+      
+      <div id="loader">
+        <div class="spinner-wrapper">
+          <span class="spinner"></span>
+        </div>
+      </div>
+ 
+
+      <!-- MENU FOR MOBILE AND SMALL DEVICES START -->
+
+          <div id="mobile-nav-trigger">
+            <div></div>
+            <div></div>
+            <div></div>
+          </div>
+
+          <div id="mobilenav" class="mobilenav">
+            <div class="fixed-nav">
+               <div class="nav-container">
+                <nav class="navbar navbar-default navbar-static" role="navigation">
+                  <div class="navbar-header">
+                    
+                    <div class="logo">
+                      <a class="scroll" href="#home">
+                        <div>I'm
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                          Robert
+                          <span>Smith</span>
+                        </div>
+
+                        <img src="logo-m.png" alt="">
+                      </a>
+                    </div> <!-- col-md-6 end -->
+                  </div>
+
+                  <div class="bs-js-navbar-scrollspy pull-right">
+                    <ul class="nav navbar-nav nav-effect">
+                      <li><a class="scroll" href="#about"><span data-hover="About Me">About Me</span></a></li>
+                      <li><a class="scroll" href="#service"><span data-hover="Service">Service</span></a></li>
+                      <li><a class="scroll" href="#happyness"><span data-hover="Statics">Statics</span></a></li>
+                      <li><a class="scroll" href="#clients"><span data-hover="Clients">Clients</span></a></li>
+                      <li><a class="scroll" href="#blog"><span data-hover="Blog">Blog</span></a></li>
+                      <li><a class="scroll" href="#question"><span data-hover="Contact">Contact</span></a></li>
+                    </ul>
+                  </div>
+                </nav>
+              </div>
+          </div> <!-- FIXED NAV END-->
+        </div> <!-- MOBILENAV END -->
+
+        <div id="body-wrapper"></div>
+
+      <!-- MENU FOR MOBILE AND SMALL DEVICES END -->
+
+      <section id="home">
+        <div class="homeoverlay">
+          <div class="home-part">
+            <div id="home-slider" class="carousel slide carousel-fade" data-ride="carousel">
+              
+              <div class="slideroverlay"></div> <!-- SLIDEROVERLAY END -->
+
+            
+              <div class="carousel-inner">
+                <div class="item active">
+                  <img src="slide-1.jpg" alt="">
+                  <div class="carousel-caption">
+                      <div class="slider-part slider-part-half">
+                        <h3 id="slidename" class="animated slideInLeftTrigger slideInLeft delay200">Eddy</h3>
+                        <h4 class="animated slideInLeftTrigger slideInLeft delay200"><span>is my nick name</span></h4>
+                        <p class="animated slideInLeftTrigger slideInLeft delay500">ANd I am a self-certified Pro  <b>developer</b>, <b>project manager</b> as well as a passionate <b>online marketer</b>. <br> <br>
+                          I believe I have enough reason to claim all...</p>
+                      </div> <!-- slider-part-half end -->
+
+                      <div class="slider-part-half">
+                        <img src="eddynguyen.png" class="animated fadeInRightBigTrigger fadeInRightBig delay1000" alt="">
+                      </div> <!-- slider-part-half end -->
+                  </div>
+                </div> <!-- item end -->
+
+          
+              </div>
+            </div>
+          </div> <!-- HOME-PART END -->
+        </div> <!-- HOMEOVERLAY END -->
+      </section> <!-- HOME END -->
+
+      <section id="navigation">
+        <div class="fixed-nav">
+          <div class="container">
+           <div class="nav-container">
+            <nav class="navbar navbar-default navbar-static" role="navigation">
+              <div class="navbar-header">
+                <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-js-navbar-scrollspy">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <div class="logo">
+                  <a class="scroll" href="#home">
+                    <div>I'm
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                      Eddy
+                      <span>Nguyen</span>
+                    </div>
+
+                    <img src="logo-m.png" alt="">
+                  </a>
+                </div> <!-- col-md-6 end -->
+              </div>
+
+              <div class="collapse navbar-collapse bs-js-navbar-scrollspy pull-right">
+                <ul class="nav navbar-nav nav-effect">
+                  <li><a class="scroll" href="#about"><span data-hover="About Me">About Me</span></a></li>
+                  <li><a class="scroll" href="#service"><span data-hover="Service">Service</span></a></li>
+                  <li><a class="scroll" href="#happyness"><span data-hover="Statics">Statics</span></a></li>
+                  <li><a class="scroll" href="#clients"><span data-hover="Clients">Testimonial</span></a></li>
+           
+                  <li><a class="scroll" href="#question"><span data-hover="Contact">Contact</span></a></li>
+             
+                </ul>
+              </div>
+            </nav>
+          </div>
+        </div> <!-- CONTAINER END -->
+      </div> <!-- FIXED NAV END-->
+    </section> <!-- NAVIGATION END -->
+
+
+    <section id="about" class="home-part home-part two-part-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 promo" data-uk-scrollspy="{cls:'uk-animation-slide-bottom', delay: 500, repeat: true}">
+           
+              <div class="promobox">
+                <a href="https://www.freelancer.com/u/giahuy10.html" target="_blank"><img class="img-responsive" src="eddy-background.png" alt="Eddy's Profile"></a>
+              
+              </div> <!-- PROMOBOX END -->
+          
+          </div> <!-- col-md-6 end -->
+
+          <div class="col-md-6" data-uk-scrollspy="{cls:'uk-animation-slide-bottom', delay: 1300, repeat: true}">
+            <h3 id="aboutname">Eddy Nguyen</h3>
+            <h4>Freelancer, Web Designer.</h4>
+            <p>
+				Full name: Nguyen Van Huy <br/>
+				Account name: giahuy10<br/>
+				Date of birth: August 02, 1991 <br/>
+				Address: 112/29 Me Tri Thuong street, Nam Tu Liem district, Hanoi city, VietNam. <br/>
+				Phone: (+84) 0906 14 7575 <br/>
+				Email: <a href="mailto:email@giahuy10.com">email@giahuy10.com</a>
+				
+			</p>
+            
+            <h5><span>As seen on</span></h5>
+            <a href="https://www.freelancer.com/u/giahuy10.html"  target="_blank"><img class="gray-hover as-seen" src="Freelancer.com-Logo.png" alt="freelancer.com"></a>
+            <a href="https://www.upwork.com/freelancers/~0133de644dedfba215"  target="_blank"><img class="gray-hover as-seen" src="upwork-logo-1200.png" alt="upwork"></a>
+     
+          </div> <!-- col-md-6 end -->
+        </div> <!-- ROW END -->
+      </div> <!-- CONTAINER END -->
+    </section> <!-- ABOUT END -->
+	 <section id="experience" class="home-part">
+      <div class="container">
+        <div class="section-heading-wrapper"><h3 id="experience-position">Experience</h3></div>
+        <div class="clearfix"></div>
+
+        <div class="row">
+
+          <div class="animation-wrapper" data-uk-scrollspy="{cls:'uk-animation-slide-bottom', delay: 500, repeat: true}">
+          <div class="col-md-4">
+            <div class="company">
+              <img src="freelance.png" alt="">
+            </div> <!-- COMPANY END -->
+
+            <div class="recruit">
+              <h4>Freelance</h4>
+              <h5>Remote</h5>
+            </div><!-- RECRUIT END -->
+          </div> <!-- col-md-4 end -->
+
+          <div class="col-md-8">
+            <h4>Website developer - <span>December 2014 – Present </span></h4>
+
+            <p>
+			- Developing website and application.<br/>
+			- Project management<br/>
+			- Account management
+			</p>
+
+            <div class="x-skills">
+              Skills: <span>Joomla, HTML5/CSS3, jQuery, Ajax, PHP, MYSQL, Boostrap, SEO, WordPress, Mobile, Prestashop</span>
+            </div> <!-- X-SKILLS END -->
+          </div> <!-- col-md-8 end -->
+
+          <div class="x-devider"></div> <!-- experience item deivder -->
+          </div> <!-- ANIMATION WRAPPER END-->
+          
+          <div class="animation-wrapper" data-uk-scrollspy="{cls:'uk-animation-slide-bottom', delay: 800, repeat: true}">
+          <div class="col-md-4">
+            <div class="company">
+              <img src="smart-osc.png" alt="">
+            </div> <!-- company end -->
+
+            <div class="recruit">
+              <h4>SmartOSC JSC</h4>
+              <h5>Hanoi, VietNam</h5>
+            </div><!-- RECRUIT END -->
+          </div> <!-- col-md-4 end -->
+
+          <div class="col-md-8">
+            <h4>Business Analyst - <span>June 2014 – December 2014 </span></h4>
+
+            <p>- Analyzing customer's requirements <br/>
+				- Consulting e-commerce solutions for customers <br/>
+					- Supporting technical for team </p>
+
+            <div class="x-skills">
+              Skills: <span>Account management, Presentation, Ecommerce, Microsoft Office</span>
+            </div> <!-- X-SKILLS END -->
+          </div> <!-- col-md-8 end -->
+
+          <div class="x-devider"></div> <!-- experience item deivder -->
+          </div> <!-- ANIMATION WRAPPER END-->
+          
+          <div class="animation-wrapper" data-uk-scrollspy="{cls:'uk-animation-slide-bottom', delay: 1100, repeat: true}">
+          <div class="col-md-4">
+            <div class="company">
+              <img src="Bravebits-logo.png" alt="">
+            </div> <!-- company end -->
+
+            <div class="recruit">
+              <h4>Bravebits CO.,LTD</h4>
+              <h5>Remote</h5>
+            </div><!-- RECRUIT END -->
+          </div> <!-- col-md-4 end -->
+
+          <div class="col-md-8">
+            <h4>Support Specialist - <span>March 2014 – December 2014</span></h4>
+
+            <p>- Provide support in English for all technical matters related to company’s Joomla! product utilization.<br/>
+- Write the documentation and test products: Write a new and update existing documentation manuals plus test products before release. </p>
+
+            <div class="x-skills">
+              Skills: <span>Joomla, HTML5/CSS3, jQuery, Ajax, PHP, Microsoft Office</span>
+            </div> <!-- X-SKILLS END -->
+          </div> <!-- col-md-8 end -->
+
+          <div class="x-devider"></div> <!-- experience item deivder -->
+          </div> <!-- ANIMATION WRAPPER END-->
+          
+          <div class="animation-wrapper" data-uk-scrollspy="{cls:'uk-animation-slide-bottom', delay: 1400, repeat: true}">
+          <div class="col-md-4">
+            <div class="company">
+              <img src="placeholder3.png" alt="">
+            </div> <!-- company end -->
+
+            <div class="recruit">
+              <h4>Mat troi Viet CO.,LTD</h4>
+              <h5>Hanoi, VietNam</h5>
+            </div><!-- RECRUIT END -->
+          </div> <!-- col-md-4 end -->
+
+          <div class="col-md-8">
+            <h4>Online marketer - <span>August 2012 – March 2014 </span></h4>
+
+            <p>- Build online marketing strategy <br/>
+- Do research new product <br/>
+- Training e-commerce knowledge </p>
+
+            <div class="x-skills">
+              Skills: <span>SEO, HTML5/CSS3, Joomla, PHP, WordPress, Adobe Photoshop, Microsoft Office</span>
+            </div> <!-- X-SKILLS END -->
+          </div> <!-- col-md-8 end -->
+          </div> <!-- ANIMATION WRAPPER END-->
+		   <div class="x-devider"></div> <!-- experience item deivder -->
+          </div> <!-- ANIMATION WRAPPER END-->
+          
+          <div class="animation-wrapper" data-uk-scrollspy="{cls:'uk-animation-slide-bottom', delay: 1700, repeat: true}">
+          <div class="col-md-4">
+            <div class="company">
+              <img src="logo-mokara-black.png" alt="">
+            </div> <!-- company end -->
+
+            <div class="recruit">
+              <h4>Mokara Viet Nam CO., LTD</h4>
+              <h5>Hanoi, VietNam</h5>
+            </div><!-- RECRUIT END -->
+          </div> <!-- col-md-4 end -->
+
+          <div class="col-md-8">
+            <h4>Online marketer - <span>April 2011 – August 2012 </span></h4>
+
+            <p>- Website Management <br/>
+- Expanding Business <br/>
+- Customer Care <br/>
+- Build marketing online strategy </p>
+
+            <div class="x-skills">
+              Skills: <span>SEO, HTML5/CSS3, Joomla, PHP, WordPress, Adobe Photoshop, Microsoft Office</span>
+            </div> <!-- X-SKILLS END -->
+          </div> <!-- col-md-8 end -->
+          </div> <!-- ANIMATION WRAPPER END-->
+
+        </div> <!-- ROW END -->
+      </div> <!-- CONTAINER END -->
+    </section> <!-- EXPERIENCE END -->
+    <section id="skills" class="home-part">  
+      <div class="container">
+        <div class="section-heading-wrapper"><h3>My Skills</h3></div>
+        <div class="clearfix"></div>
+		 <div class="skill">
+          <div class="chart">
+            <canvas id="joomla" height="55" width="55"></canvas>
+          </div> <!-- chart end -->
+
+          <div class="details">
+            <p>Joomla</p>
+            <p>2012-Present</p>            
+          </div> <!-- DETAILS END -->
+        </div> <!-- col-md-3 end -->
+        <div class="skill">
+          <div class="chart">
+            <canvas id="photoshop" height="55" width="55"></canvas>
+          </div> <!-- CHART END -->
+
+          <div class="details">
+            <p>Photoshop</p>
+            <p>2009-Present</p>            
+          </div> <!-- DETAILS END -->
+        </div> <!-- col-md-3 end -->
+
+        <div class="skill">
+          <div class="chart">
+            <canvas id="html" height="55" width="55"></canvas>
+          </div> <!-- chart end -->
+
+          <div class="details">
+            <p>HTML</p>
+            <p>2012-Present</p>            
+          </div> <!-- DETAILS END -->
+        </div> <!-- col-md-3 end -->
+
+        <div class="skill">
+          <div class="chart">
+            <canvas id="php" height="55" width="55"></canvas>
+          </div> <!-- chart end -->
+
+          <div class="details">
+            <p>PHP</p>
+            <p>2012-Present</p>            
+          </div> <!-- DETAILS END -->
+        </div> <!-- col-md-3 end -->
+
+        <div class="skill">
+          <div class="chart">
+            <canvas id="wordpress" height="55" width="55"></canvas>
+          </div> <!-- chart end -->
+
+          <div class="details">
+            <p>WordPress</p>
+            <p>2012-Present</p>            
+          </div> <!-- DETAILS END -->
+        </div> <!-- col-md-3 end -->
+
+        <div class="skill">
+          <div class="chart">
+            <canvas id="illustrator" height="55" width="55"></canvas>
+          </div> <!-- chart end -->
+
+          <div class="details">
+            <p>Illustrator</p>
+            <p>2004-2005</p>            
+          </div> <!-- DETAILS END -->
+        </div> <!-- col-md-3 end -->
+
+        <div class="skill">
+          <div class="chart">
+            <canvas id="css" height="55" width="55"></canvas>
+          </div> <!-- chart end -->
+
+          <div class="details">
+            <p>CSS</p>
+            <p>2012-Present</p>            
+          </div> <!-- DETAILS END -->
+        </div> <!-- col-md-3 end -->
+
+        <div class="skill">
+          <div class="chart">
+            <canvas id="python" height="55" width="55"></canvas>
+          </div> <!-- chart end -->
+
+          <div class="details">
+            <p>Prestashop</p>
+            <p>2012-Present</p>            
+          </div> <!-- DETAILS END -->
+        </div> <!-- col-md-3 end -->
+
+       
+
+        <div class="skill">
+          <div class="chart">
+            <canvas id="indesign" height="55" width="55"></canvas>
+          </div> <!-- chart end -->
+
+          <div class="details">
+            <p>C++</p>
+            <p>2008-2009</p>            
+          </div> <!-- DETAILS END -->
+        </div> <!-- col-md-3 end -->
+        
+        <div class="skill">
+          <div class="chart">
+            <canvas id="js" height="55" width="55"></canvas>
+          </div> <!-- chart end -->
+
+          <div class="details">
+            <p>JavaScript</p>
+            <p>2012-Present</p>            
+          </div> <!-- DETAILS END -->
+        </div> <!-- col-md-3 end -->
+        
+        <div class="skill">
+          <div class="chart">
+            <canvas id="ruby" height="55" width="55"></canvas>
+          </div> <!-- chart end -->
+
+          <div class="details">
+            <p>Bootstrap</p>
+            <p>2015-Present</p>            
+          </div> <!-- DETAILS END -->
+        </div> <!-- col-md-3 end -->
+        
+        <div class="skill">
+          <div class="chart">
+            <canvas id="magento" height="55" width="55"></canvas>
+          </div> <!-- chart end -->
+
+          <div class="details">
+            <p>Magento</p>
+            <p>2013-2014</p>            
+          </div> <!-- DETAILS END -->
+        </div> <!-- col-md-3 end -->
+        
+        <div class="skill">
+          <div class="chart">
+            <canvas id="image_ready" height="55" width="55"></canvas>
+          </div> <!-- chart end -->
+
+          <div class="details">
+            <p>MySQL</p>
+            <p>2012-Present</p>            
+          </div> <!-- DETAILS END -->
+        </div> <!-- col-md-3 end -->
+        
+        <div class="skill">
+          <div class="chart">
+            <canvas id="jquery" height="55" width="55"></canvas>
+          </div> <!-- chart end -->
+
+          <div class="details">
+            <p>jQuery</p>
+            <p>2008-Present</p>            
+          </div> <!-- DETAILS END -->
+        </div> <!-- col-md-3 end -->
+
+        <div class="skill">
+          <div class="chart">
+            <canvas id="java_skill" height="55" width="55"></canvas>
+          </div> <!-- chart end -->
+
+          <div class="details">
+            <p>Mobile</p>
+            <p>2015-Present</p>            
+          </div> <!-- DETAILS END -->
+        </div> <!-- col-md-3 end -->
+
+        <div class="skill">
+          <div class="chart">
+            <canvas id="bigcommerce" height="55" width="55"></canvas>
+          </div> <!-- chart end -->
+
+          <div class="details">
+            <p>eCommerce</p>
+            <p>2014-Present</p>            
+          </div> <!-- DETAILS END -->
+        </div> <!-- col-md-3 end -->
+      </div>
+    </section> <!-- SKILLS END -->
+    
+    <section id="education" class="home-part">
+      <div class="container">
+        <div class="col-md-8" data-uk-scrollspy="{cls:'uk-animation-fade', delay: 1000, repeat: true}">
+          <h3>Education </h3>
+          <div class="item">
+            <h4>Masters of Information managment</h4>
+            <h4><span>Vietnam Commercial University</span></h4>
+            <p>I have studied about the information systems such as CRM, HRM, ERP, BI... I have learned about software development and project management as well.</p>
+            <h5>September 2010 - June 2014 | GPA: 3.1 out of 4</h5>
+          </div> <!-- ITEM END -->
+
+
+        </div> <!-- col-md-8 end -->
+
+        <div class="col-md-4" data-uk-scrollspy="{cls:'uk-animation-fade', delay: 1000, repeat: true}">
+          <div class="item">
+            <h3>Certifications</h3>
+            <h4>Joomla Level 3 (83%) </h4>
+			<h4>Numeracy Level 1 (92%) </h4>
+			<h4>HTML Level 1 (88%) </h4>
+			<h4>US English Level 1 (83%)</h4>
+			
+            <h5><a href="https://www.freelancer.com/u/giahuy10.html" target="_blank">View detail</a></h5>
+          </div><!-- ITEM END -->
+
+   
+        </div> <!-- col-md-4 end -->
+      </div> <!-- container end -->
+    </section> <!-- EDUCATION END -->
+
+   
+
+
+    <section id="service" class="home-part">
+      <div class="container">
+        <div class="section-heading-wrapper"><h3>Available For</h3></div>
+        <div class="clearfix"></div>
+        <div class="row">
+
+          <div class="col-md-4 service-item" data-uk-scrollspy="{cls:'uk-animation-slide-bottom', delay: 500, repeat: true}">
+            <div class="service-logo">
+              <img src="idea_bulb-512.png" alt="">
+            </div> <!-- SERVICE LOGO END -->
+
+            <div class="service-details">
+              <h4>Online marketing</h4>
+              <p>If you are selling somethings on website and you want to improve your sale or promote your new products/services, I can help you to get that goals.</p>
+            </div> <!-- service details end -->
+          </div> <!-- col-md-3 end -->
+
+          <div class="col-md-4 service-item" data-uk-scrollspy="{cls:'uk-animation-slide-bottom', delay: 800, repeat: true}">
+            <div class="service-logo">
+              <img src="website-design.png" alt="">
+            </div> <!-- SERVICE LOGO END -->
+
+            <div class="service-details">
+              <h4>Website Design</h4>
+              <p>I can build all kind of websites such as Ecommerce, Magazine, Business, Transpost, Blog . . . It will just take few weeks to completed a website for you.</p>
+            </div> <!-- service details end -->
+          </div> <!-- col-md-3 end -->
+
+          <div class="col-md-4 service-item" data-uk-scrollspy="{cls:'uk-animation-slide-bottom', delay: 1100, repeat: true}">
+            <div class="service-logo">
+              <img src="app-design.png" alt="">
+            </div> <!-- SERVICE LOGO END -->
+
+            <div class="service-details">
+              <h4>Mobile Web Design</h4>
+              <p>I can help you to build mobile version for your website or make your website to be responsive. Your website will be displayed well on all divices and browsers.</p>
+            </div> <!-- service details end -->
+          </div> <!-- col-md-3 end -->
+
+          <div class="col-md-4 service-item" data-uk-scrollspy="{cls:'uk-animation-slide-bottom', delay: 1400, repeat: true}">
+            <div class="service-logo">
+              <img src="psd-html.png" alt="">
+            </div> <!-- SERVICE LOGO END -->
+
+            <div class="service-details">
+              <h4>PSD to HTML</h4>
+              <p>Your PSD/PDF will be convertd to be HTML/CSS with pixel perfect. Your HTML/CSS code will be cleaned and commented each line.</p>
+            </div> <!-- service details end -->
+          </div> <!-- col-md-3 end -->
+
+          <div class="col-md-4 service-item" data-uk-scrollspy="{cls:'uk-animation-slide-bottom', delay: 1700, repeat: true}">
+            <div class="service-logo">
+              <img src="joomla-logo.png" alt="">
+            </div> <!-- SERVICE LOGO END -->
+
+            <div class="service-details">
+              <h4>Joomla development</h4>
+              <p>I can help you to build Joomla website from scratch or upgrade your Joomla site to latest version. I also can help you to develop or customize Joomla extensions/templates.</p>
+            </div> <!-- SERVICE DETAILS END -->
+          </div> <!-- col-md-3 end -->
+
+          <div class="col-md-4 service-item" data-uk-scrollspy="{cls:'uk-animation-slide-bottom', delay: 2000, repeat: true}">
+            <div class="service-logo">
+              <img src="ecommerce.png" alt="">
+            </div> <!-- SERVICE LOGO END -->
+
+            <div class="service-details">
+              <h4>E-Commerce Web Design</h4>
+              <p>I will provide best Ecommerce solution that includes online store, sale management, customer relatationship management, shipping and payment methods. And more...</p>
+            </div> <!-- service details end -->
+          </div> <!-- col-md-3 end -->
+        </div> <!-- row end -->
+      </div>
+    </section> <!-- CLIENTS END -->
+
+
+    <section id="portfolio" class="home-part hidden">
+      <div class="container">
+        <div class="section-heading-wrapper"><h3>My Portfolio</h3></div>
+        <div class="clearfix"></div>
+        <div class="animation-wrapper" data-uk-scrollspy="{cls:'uk-animation-fade', delay: 1000, repeat: true}">
+        <div class="mix-nav">
+          <!-- FILTER CONTROLS START-->  
+          <div class="controls">
+            <ul class="mixitup_nav">
+              <li class="filter active" data-filter="all">Show All</li>
+              <li class="filter" data-filter="brand_design" data-store="brand_design">brand identity</li>
+              <li class="filter" data-filter="illustration" data-store="illustration">illustration</li>
+              <li class="filter" data-filter="mobile_apps" data-store="mobile_apps">mobile app design</li>
+              <li class="filter" data-filter="print_design" data-store="print_design">print design</li>
+              <li class="filter" data-filter="web_design" data-store="web_design">web design</li>
+            </ul>
+          </div>
+          <!-- FILTER CONTROLS END--> 
+        </div> <!-- col-md-3 end -->
+
+        <div class="mix-gallery">
+          <ul id="Grid" class="magnifico-gallery">
+            <li class="mix brand_design print_design"><!-- ITEM START -->
+              <a href="01.jpg" data-source="01.jpg" >
+                <img src="placeholder.gif" class="lazy" data-original="01.jpg" alt="Lake">
+                <div class="overlay">
+                </div>
+              </a>
+            </li> <!-- ITEM END -->
+
+            <li class="mix web_design illustration"><!-- ITEM START -->
+              <a href="02.jpg" data-source="02.jpg" >
+                <img src="placeholder.gif" class="lazy" data-original="02.jpg" alt="Hatirzil">
+                <div class="overlay">
+                </div>
+              </a>
+            </li> <!-- ITEM END -->
+
+            <li class="mix brand_design illustration"><!-- ITEM START -->
+              <a href="03.jpg" data-source="03.jpg" >
+                <img src="placeholder.gif" class="lazy" data-original="03.jpg" alt="Water Drop">
+                <div class="overlay">
+                </div>
+              </a>
+            </li> <!-- ITEM END -->
+
+            <li class="mix illustration"><!-- ITEM START -->
+              <a href="04.jpg" data-source="04.jpg" >
+                <img src="placeholder.gif" class="lazy" data-original="04.jpg" alt="Shooting">
+                <div class="overlay">
+                </div>
+              </a>
+            </li> <!-- ITEM END -->
+
+            <li class="mix mobile_apps brand_design"><!-- ITEM START -->
+              <a href="05.jpg" data-source="05.jpg" >
+                <img src="placeholder.gif" class="lazy" data-original="05.jpg" alt="Mirpur DOHS">
+                <div class="overlay">
+                </div>
+              </a>
+            </li> <!-- ITEM END -->
+
+            <li class="mix print_design"><!-- ITEM START -->
+              <a href="06.jpg" data-source="06.jpg" >
+                <img src="placeholder.gif" class="lazy" data-original="06.jpg" alt="Coxbazzar Beach">
+                <div class="overlay">
+                </div>
+              </a>
+            </li> <!-- ITEM END -->
+
+            <li class="mix mobile_apps brand_design"><!-- ITEM START -->
+              <a href="07.jpg" data-source="07.jpg" >
+                <img src="placeholder.gif" class="lazy" data-original="07.jpg" alt="Horrible">
+                <div class="overlay">
+                </div>
+              </a>
+            </li> <!-- ITEM END -->
+
+            <li class="mix print_design illustration"><!-- ITEM START -->
+              <a href="08.jpg" data-source="08.jpg" >
+                <img src="placeholder.gif" class="lazy" data-original="08.jpg" alt="Insects">
+                <div class="overlay">
+                </div>
+              </a>
+            </li> <!-- ITEM END -->
+
+            <li class="mix illustration web_design"><!-- ITEM START -->
+              <a href="09.jpg" data-source="09.jpg" >
+                <img src="placeholder.gif" class="lazy" data-original="09.jpg" alt="Shooting">
+                <div class="overlay">
+                </div>
+              </a>
+            </li> <!-- ITEM END -->
+          </ul> <!-- GRID END -->
+
+          <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem <a class="hl" href="#">quis bibendum</a> auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. </p>
+        </div> <!-- col-md-9 end -->          
+        </div> <!-- ANIMATION-WRAPPER END -->
+      </div> <!-- container end -->
+    </section> <!-- portfolio end -->
+
+   
+
+    <section id="happyness">
+      <div class="home-part-overlay">
+        <div class="container">
+          <h3>some fun facts and my Hapiness <br> __________</h3>
+          <div class="row">
+			<div class="col-md-3">
+              <div class="icon">
+                <img src="iconmonstr-clipboard-5-icon.png" alt="">
+              </div> <!-- icon end -->
+
+              <div class="number">
+                <div><span id="projects-no" data-target="250">200</span>+</div>
+                <span>Projects</span>
+              </div> <!-- number end -->
+            </div> <!-- col-md-3 end -->
+            <div class="col-md-3">
+              <div class="icon">
+                <img src="time-48.png" alt="">
+              </div> <!-- icon end -->
+
+              <div class="number">
+                <div><span id="online" data-target="99">70</span>%</div>
+                <span>On-time</span>
+              </div> <!-- number end -->
+            </div> <!-- col-md-3 end -->
+            <div class="col-md-3">
+              <div class="icon">
+                <img src="money_bag-48.png" alt="">
+              </div> <!-- icon end -->
+
+              <div class="number">
+                <div><span id="clients-no" data-target="100">70</span>%</div>
+                <span>On Budget</span>
+              </div> <!-- number end -->
+            </div> <!-- col-md-3 end -->
+            
+
+            <div class="col-md-3">
+              <div class="icon">
+                <img src="synchronize-48.png" alt="">
+              </div> <!-- icon end -->
+
+              <div class="number">
+                <div><span id="traveled" data-target="30">0</span>%</div>
+                <span>Repeat Hire Rate</span>
+              </div> <!-- number end -->
+            </div> <!-- col-md-3 end -->
+          </div> <!-- row end -->
+        </div> <!-- CONTAINER END -->
+      </div> <!-- OVERLAY END -->
+    </section> <!-- HAPPYNESS END -->
+
+    <section id="clients" class="home-part two-part-section">
+      <div class="container">
+        <h3 class="show-hide">
+          <img class="section-logo" src="featured-clients.png" alt="">
+          Featured Clients
+        </h3>
+        <h4 class="show-hide">Proin gravida nibh vel velit auctor</h4>
+        <div class="slide-front">
+          <div class="row">
+            
+            <div class="col-md-6 left" data-uk-scrollspy="{cls:'uk-animation-slide-left', delay: 600, repeat: true}">
+             <h3 class="show-hide">
+              <img class="section-logo" src="featured-clients.png" alt="">
+              Featured Clients
+             </h3>
+              <h4 class="show-hide"></h4>
+
+              <p>I have worked with over 100 clients from over the world. Althought we have big different time (US and Euro), we have had good communication and I also completed projects on time. You can see some client's testimonial at the bellow section.</p>
+
+             
+            </div> <!-- col-md-6 end -->
+
+            <div class="col-md-6 right" data-uk-scrollspy="{cls:'uk-animation-slide-bottom', delay: 1000, repeat: true}">
+              <button id="less"></button>
+              <div class="c-logo">
+                 <a href="http://gvy.co/en/" target="_blank"><img class="gray-hover" src="currency-wiki-logo.png" alt="currency-wiki"></a>
+              </div> <!-- c-logo end -->
+
+              <div class="c-logo">
+                <a href="http://svmmjcc.com/" target="_blank"><img class="gray-hover" src="svmmjcc-small_logo.png" alt="svmmjcc"></a>
+              </div> <!-- c-logo end -->
+
+              <div class="c-logo">
+                <a href="http://bitreview.com/"><img class="gray-hover" src="bit-review-logo.png" alt="bitreview"></a>
+              </div> <!-- c-logo end -->
+
+              <div class="c-logo">
+                <a href="https://www.cvketelkoopjes.nl" target="_blank"><img class="gray-hover" src="logo-cvketelkoopjes5.png" alt="cvketelkoopjes"></a>
+              </div> <!-- c-logo end -->
+
+              <div class="c-logo">
+                 <a href="http://mokara.com.vn/" target="_blank"><img class="gray-hover" src="logo-mokara.png" alt="mokara"></a>
+              </div> <!-- c-logo end -->
+
+              <div id="short" class="c-logo">
+                <a href="" target="_blank"> <img class="gray-hover" src="06.jpg" alt=""></a>
+              </div> <!-- c-logo end -->
+
+             
+              
+              <div class="clearfix"></div>
+
+              <button class="more second button-transparent">Show All</button>
+            </div> <!-- col-md-6 end -->
+          </div> <!-- row end -->
+        </div> <!-- SLIDE-FRONT END -->
+      </div> <!-- CONTAINER END -->
+    </section> <!-- CLIENTS END -->
+
+
+
+    <section id="testimonial" class="home-part">
+      <div class="container">
+        <div class="section-heading-wrapper"><h3>Testimonial</h3></div>
+
+        <div class="clearfix"></div>
+
+        <img src="testimonial.png" alt="">
+
+        <h3><br> __________</h3>
+
+        <div id="testimonial-carosel" class="owl-carousel">
+          <div> <!-- ITEM START -->
+            <p>Absolutely amazing person, knowledgeable, honest and works super quick. Project is complex and it took him days what other developer could not complete in 3 months not to mentioned he was kind enough to rebuild SQL file that I deleted by accident without a backup so I really thank him for that. Overall, I'm glad to work with him and I'd DEFINITELY recommend him to others. If you notice his bid, don't think twice, accept it :)</p>
+
+            <h5><span>Subrota Biswas,</span> GVY Group</h5>
+          </div> <!-- ITEM END -->
+
+          <div> <!-- ITEM START -->
+            <p>Excellent website programmer -- particularly in Joomla. He not only followed my instructions well, he also came up with better solutions and offered me great alternatives that I hadn't even considered. I would highly recommend this freelancer for any coding or Joomla work that you need done. I'm now also going to start working with him on SEO.</p>
+
+            <h5><span>Jomir Ali Talukdar,</span> SVMMJCC</h5>
+          </div> <!-- ITEM END -->
+
+          <div> <!-- ITEM START -->
+            <p>Giahuy10 is a pleasure to work with. Not only is his expertise and speed in Joomla impressive but he has great personality. He shows patience, kindness and great understanding. He is very much a professional. Thank you again for your work. This is the second time I've used him and am again so happy with his work that I'm giving him a bonus. Thank you!</p>
+
+            <h5><span>Ganze Ali,</span> Amym 10</h5>
+          </div> <!-- ITEM END -->
+
+          <div> <!-- ITEM START -->
+            <p>Very good work and communication. I have hired him for a few projects already and he always delivered professionally. Huy's great attitude makes it a pleasure to work with him.</p>
+
+            <h5><span>Kalu Matobbar,</span> PRESIDENT, Village</h5>
+          </div> <!-- ITEM END -->
+
+        </div>
+
+      </div>
+    </section> <!-- TESTIMONIAL END -->
+
+    
+
+
+  
+    </section> <!-- SUBSCRIBE END -->
+
+
+    <section id="question">
+      <div class="questionOverlay">
+        <div class="question-inner-wrapper">
+          <div class="home-part">
+            <h2>Get in touch?</h2>
+            <h3>Please feel free to contact me if you need anything! <br> __________</h3>
+
+            <div class="contact-form-wrapper" data-uk-scrollspy="{cls:'uk-animation-fade', delay: 1000, repeat: true}">
+              <form id="contact">
+                  <input name="name" type="text" placeholder="YOUR NAME" required>
+                
+                  <input name="email" type="email" placeholder="EMAIL ADDRESS" required>
+                
+                  <input name="subject" class="message" type="text" placeholder="SUBJECT OF THIS MESSAGE" required>
+                
+                  <textarea name="message" placeholder="YOUR MESSAGE" required></textarea>
+
+                  <input type="submit" value="SUBMIT">
+              </form>
+            </div>
+          </div>        
+        </div>
+      </div>
+    </section> <!-- QUESTIONS END -->
+
+
+    <footer id="footer">
+      <div class="container">
+        <ul id="footer-nav" class="pull-left">
+          <li id="footertext">All works <span>&copy; Eddy Nguyen</span> 2017. All rights Reserved</li>
+   
+        </ul>
+
+       
+      </div>
+    </footer> <!-- FOOTER END -->
+
+    <!-- JQUERY/JAVASCRIPT PLUGINS START -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <script src="bootstrap-scrollspy.js"></script>
+    <script src="owl.carousel.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/0.2.0/Chart.min.js"></script>
+    <script src="jquery.mixitup.min.js"></script>
+    <script src="jquery.lazyload.min.js"></script>
+    <script src="jquery.easing.min.js"></script>
+    <script src="waypoints.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.7.1/js/uikit.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/0.9.9/jquery.magnific-popup.min.js"></script>
+    <script src="init.js"></script>
+    <script src="preloader.js"></script>
+    <!-- JQUERY/JAVASCRIPT PLUGINS END -->
+
+  </body>
+  </html>

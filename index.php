@@ -130,9 +130,9 @@ Eddy
 
 <li><a class=scroll href=#happyness><span data-hover=Statics>Statics</span></a></li>
 
-<li><a class=scroll href=#clients><span data-hover=Clients>Clients</span></a></li>
+<li><a class=scroll href=#clients><span data-hover=Clients>Testimonial</span></a></li>
 
-<li><a class=scroll href=#blog><span data-hover=Blog>Blog</span></a></li>
+
 
 <li><a class=scroll href=#question><span data-hover=Contact>Contact</span></a></li>
 
@@ -308,7 +308,7 @@ Address: 112/29 Me Tri Thuong street, Nam Tu Liem district, Hanoi city, VietNam.
 
 Phone: (+84) 0906 14 7557 <br/>
 
-Email: <a href=mailto:email@giahuy10.com>email@giahuy10.com</a>
+Email: <a href=mailto:contact@eddynguyen.com>contact@eddynguyen.com</a>
 
 </p>
 

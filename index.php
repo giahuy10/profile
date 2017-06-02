@@ -11,7 +11,7 @@
 
 <meta name=description content="AND I AM A SELF-CERTIFIED PRO DEVELOPER, PROJECT MANAGER AS WELL AS A PASSIONATE ONLINE MARKETER. ">
 
-<meta property="og:url"                content="https://giahuy10.com" />
+<meta property="og:url"                content="https://eddynguyen.com" />
 
 <meta property="og:type"               content="article" />
 
@@ -19,7 +19,7 @@
 
 <meta property="og:description"        content="I AM A SELF-CERTIFIED PRO DEVELOPER, PROJECT MANAGER AS WELL AS A PASSIONATE ONLINE MARKETER. " />
 
-<meta property="og:image"              content="http://giahuy10.com/eddy-bg.png" />
+<meta property="og:image"              content="http://eddynguyen.com/eddy-bg.png" />
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 

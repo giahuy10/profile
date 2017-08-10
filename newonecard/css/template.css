@@ -1,0 +1,102 @@
+
+nav.navbar.navbar-default.navbar-fixed-top {
+    background: none;
+    border-bottom: 0;
+	padding-top: 20px;
+}
+.nav-pills>li>a {
+    border-radius: 4px;
+    background: none !important;
+    color: #fff !important;
+    text-transform: uppercase;
+}
+a.btn.btn-info {
+    background: #000;
+    border: 000;
+    padding: 10px 20px;
+    font-size: 20px;
+    /* text-transform: uppercase; */
+}
+.fill {
+	background: url(../images/world_map.png);
+}
+img.voucher {
+    position: absolute;
+    top: 200px;
+	right:20px;
+	 -webkit-animation-name: voucher; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 1s; /* Safari 4.0 - 8.0 */
+    animation-name: voucher;
+    animation-duration: 1s;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes voucher {
+    from {right: -1200px;}
+    to {right: 20px;}
+}
+
+/* Standard syntax */
+@keyframes voucher {
+    from {right: -1200px;}
+    to {right: 20px;}
+}
+
+.fill.background1 h1 {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 80px;
+    position: absolute;
+    top: 130px;
+    left: 100px;
+    text-align: center;
+	 -webkit-animation-name: background1h1; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 1s; /* Safari 4.0 - 8.0 */
+    animation-name: background1h1;
+    animation-duration: 1s;
+	width: 485px;
+	
+}
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes background1h1 {
+    from {left: -1200px;}
+    to {left: 100px;}
+}
+
+/* Standard syntax */
+@keyframes background1h1 {
+    from {left: -1200px;}
+    to {left: 100px;}
+}
+.fill.background1 h2 {
+    position: absolute;
+    top: 310px;
+    color: #fff;
+    left: 100px;
+    text-align: center;
+    font-size: 34px;
+	line-height: 45px;
+	 -webkit-animation-name: background1h2; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 1s; /* Safari 4.0 - 8.0 */
+    animation-name: background1h2;
+    animation-duration: 1s;
+	width: 485px;
+}
+@-webkit-keyframes background1h2 {
+    from {top: 1200px;}
+    to {top: 310px;}
+}
+
+/* Standard syntax */
+@keyframes background1h2 {
+    from {top: 1200px;}
+    to {top: 310px;}
+}
+
+img.map {
+    position: absolute;
+    top: 79px;
+    width: 740px;
+    left: -50px;
+}
